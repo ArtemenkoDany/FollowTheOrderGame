@@ -3,7 +3,7 @@ Follow the order game made with Swift SpriteKit
 
 ## How the app looks like:
 <div align="center">
-<img src="https://github.com/ArtemenkoDany/FollowTheOrderGame/blob/main/gif/ezgif-2-459b77fb1c.giff" width="250" height="520"/>
+<img src="https://github.com/ArtemenkoDany/FollowTheOrderGame/blob/main/gif/ezgif-2-459b77fb1c.gif" width="250" height="520"/>
 <p>gif in x2</p>
 </div>
 
