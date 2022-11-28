@@ -6,7 +6,9 @@ Follow the order game made with Swift SpriteKit
 <img src="https://github.com/ArtemenkoDany/FollowTheOrderGame/blob/main/gif/ezgif-2-459b77fb1c.gif" width="250" height="520"/>
 <p>gif in x2</p>
 </div>
-With the app, I tried to make it all with a neomorphic design and random colored backgrounds.
+
+<p>gWith the app, I tried to make it all with a neomorphic design and random colored backgrounds.</p>
+
 ### Regards, Daniil
 
 <div align="center">
