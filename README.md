@@ -7,7 +7,7 @@ Follow the order game made with Swift SpriteKit
 <p>gif in x2</p>
 </div>
 
-<p>gWith the app, I tried to make it all with a neomorphic design and random colored backgrounds.</p>
+<p>With the app, I tried to make it all with a neomorphic design and random colored backgrounds.</p>
 
 ### Regards, Daniil
 
