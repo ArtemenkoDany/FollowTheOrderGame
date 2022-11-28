@@ -167,7 +167,7 @@ class GameScene: SKScene {
     }
     
     public func nextLevel() {
-        if (currentLevel < 1) {
+        if (currentLevel < 6) {
             changeCurrentLevel(with: true)
             counterAnimation()
         } else {
