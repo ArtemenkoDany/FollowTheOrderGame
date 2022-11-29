@@ -1,5 +1,5 @@
 //
-//  UIImageExtencion.swift
+//  UIColor.swift
 //  FollowTheOrder
 //
 //  Created by Даниил on 27.11.2022.
